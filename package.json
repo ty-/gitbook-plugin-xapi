@@ -1,0 +1,18 @@
+{
+    "name": "gitbook-plugin-xapi",
+    "description": "Experience API (xAPI) sending of statements to a Learning Record Store (LRS)",
+    "main": "index.js",
+    "version": "0.0.1",
+    "engines": {
+        "gitbook": "*"
+    },
+    "homepage": "https://github.com/adlnet/gitbook-plugin-xapi",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adlnet/gitbook-plugin-xapi.git"
+    },
+    "license": "Apache 2",
+    "bugs": {
+        "url": "https://github.com/adlnet/gitbook-plugin-xapi/issues"
+    }
+}
